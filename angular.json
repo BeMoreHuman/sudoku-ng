@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sudoku-ng"
+    }
+  },
+  "defaultProject": "sudoku-ng",
+  "cli": {
+    "analytics": false
+  }
 }
